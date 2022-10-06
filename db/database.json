@@ -1,0 +1,5 @@
+{
+    "testbase": "testeditor",
+    "database": "signeeditor",
+    "collection": "docs"
+}
